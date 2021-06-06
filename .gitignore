@@ -26,6 +26,8 @@ cabal.project.local
 stack.yaml.lock
 # HIE
 .hie/
+# Nix
+result*
 
 ### IDE/support
 # Vim
